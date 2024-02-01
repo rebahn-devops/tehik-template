@@ -3,7 +3,7 @@ entries:
   tehik-template:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-02-01T19:18:14.126701+02:00"
+    created: "2024-02-01T19:28:00.287065+02:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -17,7 +17,7 @@ entries:
       repository: oci://registry-1.docker.io/bitnamicharts
       version: 13.2.30
     description: Tehik KTI template chart
-    digest: 1b50742b08c52949c743aef35ff1be898aefd0b8e427523c10836edb65c71b02
+    digest: 6443591d3beeaa39036ba3569bc3956b65759c361c255db5eb322209809afe18
     maintainers:
     - email: tarmo@rebahn.eu
       name: Tarmo Katmuk
@@ -26,4 +26,4 @@ entries:
     urls:
     - https://rebahn-devops.github.io/tehik-template/charts/tehik-template-0.1.1.tgz
     version: 0.1.1
-generated: "2024-02-01T19:18:14.114906+02:00"
+generated: "2024-02-01T19:28:00.276318+02:00"
