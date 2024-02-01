@@ -3,7 +3,7 @@ entries:
   tehik-template:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-02-01T19:08:29.403159+02:00"
+    created: "2024-02-01T19:12:17.717966+02:00"
     dependencies:
     - name: common
       repository: file://../common
@@ -24,6 +24,6 @@ entries:
     name: tehik-template
     type: application
     urls:
-    - https://github.com/rebahn-devops/tehik-template/charts/tehik-template-0.1.1.tgz
+    - https://rebahn-devops.github.com/tehik-template/charts/tehik-template-0.1.1.tgz
     version: 0.1.1
-generated: "2024-02-01T19:08:29.389722+02:00"
+generated: "2024-02-01T19:12:17.710311+02:00"
